@@ -1,0 +1,2 @@
+# Ciklus
+Python ciklus feladat
